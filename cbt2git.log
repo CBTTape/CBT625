@@ -1,0 +1,5 @@
+2023-04-03 01:29:49.356884 - Initialized conversion of CBT625
+2023-04-03 01:29:49.387812 - Received CBT.V504.FILE625.PDS from FILE625.XMI 
+2023-04-03 01:29:49.390531 - Found $$$#DATE.txt (text/plain) in CBT.V504.FILE625.PDS, moved to PDS/$$$#DATE
+2023-04-03 01:29:49.391634 - Found @FILE625.txt (text/plain) in CBT.V504.FILE625.PDS, moved to PDS/@FILE625
+2023-04-03 01:29:49.392850 - Found FIXCAT.rexx (text/plain) in CBT.V504.FILE625.PDS, moved to PDS/FIXCAT
